@@ -6,8 +6,6 @@ A simple Github action to get the latest release from another repository. No aut
 Configuration
 =============
 
-Example Repository - https://github.com/pozetroninc/github-action-get-latest-release
-
 **Inputs**
 
 Name | Description | Example
